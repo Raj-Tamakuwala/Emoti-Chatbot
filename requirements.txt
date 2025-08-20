@@ -1,0 +1,10 @@
+gradio
+torch
+pandas
+requests
+scikit-learn
+textblob
+speechrecognition
+matplotlib
+seaborn
+numpy
